@@ -21,4 +21,14 @@ entries:
     urls:
     - https://github.com/edgaregonzalez/nodejs-example-chart/releases/download/nodejs-example-chart-0.1.2/nodejs-example-chart-0.1.2.tgz
     version: 0.1.2
-generated: "2023-10-20T04:26:47.080484383Z"
+  - apiVersion: v2
+    appVersion: v1.0.3
+    created: "2023-10-20T16:58:01.310746538Z"
+    description: Este es nuestro template de la clase de EducacionIT
+    digest: 289174bfb4b0e60e44bae3b9e8da2258034249b0d14e47002845d9ad72a08e35
+    name: nodejs-example-chart
+    type: application
+    urls:
+    - https://github.com/edgaregonzalez/nodejs-example-chart/releases/download/nodejs-example-chart-0.1.0/nodejs-example-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-20T16:58:01.310756338Z"
